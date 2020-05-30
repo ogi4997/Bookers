@@ -52,7 +52,7 @@ end
 
 group :test do
   gem 'capybara', '>= 2.15'
-  gem 'respec-rails'
+  gem 'rspec-rails'
   gem "factory_bot_rails"
   gem 'faker'
 end
